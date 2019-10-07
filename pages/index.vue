@@ -33,7 +33,7 @@ export default {
 <style>
 .el-header,
 .el-footer {
-  background-color: #b3c0d1;
+  background-color: #eeeeee;
   color: #333;
   text-align: center;
   padding: 0;
@@ -46,7 +46,7 @@ export default {
 }
 
 .el-main {
-  background-color: #e9eef3;
+  background-color: #eeeeee;
   color: #333;
   text-align: center;
 }

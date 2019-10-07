@@ -143,10 +143,6 @@ export default {};
   padding-left: 20px;
 }
 
-.footer__image {
-  height: 100%;
-}
-
 .form__btn {
   width: 139px;
   height: 65px;
@@ -156,7 +152,10 @@ export default {};
   border: 1px solid #ffffff;
   cursor: pointer;
 }
-
+.footer__image {
+  width: 100%;
+  height: 362px;
+}
 .footer__body {
   width: 69%;
   height: 100%;
